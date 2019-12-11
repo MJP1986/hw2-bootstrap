@@ -41,3 +41,13 @@ h1 {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+footer {
+    text-align: center;
+    background: #666666;
+    color: #ffffff;
+    clear: both;
+    padding: 40px 0;
+    border-top: 8px solid #4aaaa5;
+    margin-top:40px;
+}
