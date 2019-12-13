@@ -1,5 +1,12 @@
 # hw2-bootstrap
-recreating my portfolio with bootstrap.
-creating navbar with bootstrap.
-created about me img with a reponsive image
-used columns and rows for portfolio pictures
+##Portfolio with Bootstrap.
+    creating profolio using bootstrap
+    bootstrap was using to create a responsive website
+        - images
+        - navbar
+        - stickyfooter
+#Sources 
+ https://getbootstrap.com/
+ https://www.w3schools.com/bootstrap4/default.asp
+
+            
